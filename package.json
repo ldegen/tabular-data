@@ -1,0 +1,20 @@
+{
+  "name": "tabular-data",
+  "version": "0.1.0",
+  "description": "tools for working with tabular data structures",
+  "main": "lib/tabular-data.js",
+  "scripts": {
+    "test": "jasmine-node --coffee .",
+    "prepublish":"coffee --compile --output lib src"
+  },
+  "author": "Lukas Degener <l.degener@tarent.de>",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "jasmine-node":"*",
+    "coffee-script":"*"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git@github.com:ldegen/tabular-data.git"
+  }
+}
