@@ -1,1 +1,1 @@
-module.exports.Table = require "./table.coffee"
+module.exports.Table = require "./table"
