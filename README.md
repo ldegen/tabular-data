@@ -25,5 +25,5 @@ table = Table.fromArrays(...)
 
 Features, API, wtf...?!
 -----------------------
-Please refer to the [table-spec.coffee](./spec/table-spec.coffee).
+Please refer to the [table-spec.coffee](./spec/tables-spec.coffee).
 
